@@ -48,8 +48,7 @@
   "main": "index.js",
   "devDependencies": {
     "autoprefixer": "^9.8.6",
-    "postcss-cli": "^8.3.1",
-    "tailwindcss": "npm:@tailwindcss/postcss7-compat@^2.0.2"
+    "postcss-cli": "^8.3.1"
   },
   "author": "",
   "license": "ISC",
